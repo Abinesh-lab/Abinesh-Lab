@@ -9,4 +9,6 @@
 💻 Passionate about Full Stack Development and Java
 
 🌱 Currently learning Spring Boot 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,sql,nodejs,react,MongoDB)](https://skillicons.dev)
