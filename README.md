@@ -1,8 +1,3 @@
-https://github-readme-activity-graph.vercel.app
-
-
-
-
 🛠️ Tech Stack (Skill Icons)
 
 
@@ -39,3 +34,6 @@ https://github-readme-activity-graph.vercel.app
 ### 🧪 Tichi QA Manual Testing
 - Designed and executed 50+ manual test cases covering Login, Signup, Google Authentication, and validation scenarios.
 - Reported defects and maintained QA documentation using GitHub.
+
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Abinesh-lab&theme=github-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
