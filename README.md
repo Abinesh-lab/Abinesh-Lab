@@ -8,4 +8,4 @@
 
 💻 Passionate about Full Stack Development and Java
 
-🌱 Currently learning Spring Boot & AWS
+🌱 Currently learning Spring Boot 
