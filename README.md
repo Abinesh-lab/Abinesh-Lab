@@ -17,4 +17,4 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abinesh-lab&show_icons=true&theme=github_dark)
+![Abinesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abinesh-lab&show_icons=true&theme=tokyonight&cache_seconds=1800)
