@@ -15,6 +15,4 @@
 🌱 Currently learning Spring Boot 
 
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Abinesh-lab&show_icons=true&theme=github_dark)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Abinesh-lab&theme=github-dark)](https://git.io/streak-stats)
